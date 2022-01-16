@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAcalculatorr\GPAcalculatorr\obj\Debug\net6.0-windows\GPAcalculatorr.csproj.CoreCompileInputs.cache

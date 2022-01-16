@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: GPAxcalculator, Configuration: Debug Any CPU ------
+1>C:\Users\Lenovo\Documents\GitHub\GPAcalculatorr\GPAxcalculator\GPAxcalculator\Form1.cs(23,29,23,29): error CS1002: ; expected
+1>Done building project "GPAxcalculator.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
